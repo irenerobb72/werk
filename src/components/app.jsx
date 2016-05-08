@@ -1,14 +1,15 @@
 import React, { Component } from 'react'
+import Front from './front.jsx'
 
-class Front extends Component {
+class App extends Component {
   constructor (props) {
     super(props)
   }
   render() {
     return(
-    <div className="front-page">
+    <div className="app">
     </div>
   )}
 }
 
-export default Front
+export default App
