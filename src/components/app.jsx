@@ -6,9 +6,7 @@ class App extends Component {
   }
   render() {
     return(
-      <span>
-        <h2>lotr</h2>
-      </span>
+
   )}
 }
 
