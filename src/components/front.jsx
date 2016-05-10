@@ -6,9 +6,9 @@ class Front extends Component {
   }
   render() {
     return(
-    <div className="front-page">
-      <h2>lotr</h2>
-    </div>
+      <span>
+        <h2>lotr</h2>
+      </span>
   )}
 }
 
