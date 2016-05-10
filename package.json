@@ -19,6 +19,8 @@
   "homepage": "https://github.com/irenerobb72/werk#readme",
   "devDependencies": {
     "react": "^15.0.2",
+    "react-dom": "^15.0.2",
+    "react-router": "^2.4.0",
     "webpack": "^1.13.0",
     "webpack-dev-server": "^1.14.1"
   }
