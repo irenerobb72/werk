@@ -37,3 +37,9 @@ html, body {
   top: -48px;
   position relative;
 }
+
+.svg:hover .shape {
+  stroke-width: 2px;
+  stroke-dashoffset: 0;
+  stroke-dasharray: 760;
+}
