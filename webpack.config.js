@@ -5,7 +5,7 @@ const path = require('path')
 module.exports = {
   entry: [
     'webpack-dev-server/client?http://localhost:8080',
-    './src/main.jsx'
+    './index.js'
   ],
   module: {
     loaders: [{
