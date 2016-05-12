@@ -23,4 +23,6 @@ html, body {
   stroke-dashoffset: -474;
   stroke-width: 8px;
   fill: transparent;
+  stroke: #19f6e8;
+  border-bottom: 5px solid black;
 }
