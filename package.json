@@ -5,7 +5,8 @@
   "main": "webpack.config.js",
   "scripts": {
     "start": "webpack-dev-server",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "browserify . -t babelify -o bundle.js -g uglifyify"
   },
   "repository": {
     "type": "git",
@@ -24,6 +25,7 @@
     "babel-preset-react": "^6.5.0",
     "react": "^15.0.2",
     "react-dom": "^15.0.2",
+    "react-redux": "^4.4.5",
     "react-router": "^2.4.0",
     "webpack": "^1.13.0",
     "webpack-dev-server": "^1.14.1"
