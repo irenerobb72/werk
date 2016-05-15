@@ -20,12 +20,12 @@ module.exports = {
     extensions: ['', '.js', '.jsx']
   },
   output: {
-    path: __dirname + '/dist',
+    path: __dirname + '/index.html',
     publicPath: '/',
     filename: 'bundle.js'
   },
   devServer: {
-    contentBase: './dist'
+    contentBase: './index.html'
   },
   sassLoader: {
      includePaths: [path.resolve(__dirname, "./styles/main.css")]
