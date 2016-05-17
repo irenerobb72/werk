@@ -1,5 +1,4 @@
 html, body {
-  background: rgb(20,20,20);
   text-align: center;
   height: 100%;
   overflow: hidden;
@@ -25,7 +24,7 @@ html, body {
   font-size: 22px;
   line-height: 32px;
   letter-spacing: 8px;
-  color: black;
+  color: white;
   top: -48px;
   position: relative;
 }
