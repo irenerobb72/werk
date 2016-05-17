@@ -6,7 +6,7 @@ html, body {
 }
 .svg-wrapper {
   position: relative;
-  top: 15%;
+  top: 25%;
   transform: translateY(-50%);
 	  margin: 0 auto;
   width: 320px;
