@@ -34,3 +34,8 @@ html, body {
   stroke-dashoffset: 0;
   stroke-dasharray: 760;
 }
+
+.cute {
+  margin-top: 100px;
+  color: white;
+}
